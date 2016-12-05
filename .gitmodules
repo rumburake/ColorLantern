@@ -1,0 +1,3 @@
+[submodule "colorselect"]
+	path = colorselect
+	url = https://github.com/rumburake/ColorSelect/
